@@ -1,11 +1,4 @@
-
-
-
 ![Screenshot 2023-07-19 144454](https://github.com/mohdyasir5155/Login-Page-2/assets/131906472/20a9cb17-a4f1-497e-8184-2936849098fb)
-
-
-
-
 
 <h1 align=center>Login-Page-2</h1>
 
